@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+*{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.cartao-a{
+    width: 200px;
+    height: 130px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: rgb(175, 183, 255);
+    margin: 50px;
+    padding: 10px;
+}
+
+.cartao-f{
+    width: 200px;
+    height: 130px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: rgb(178, 255, 175);
+    margin: 50px;
+    padding: 10px;
+}
+
+.cartao-p{
+    width: 200px;
+    height: 130px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: rgb(255, 240, 175);
+    margin: 50px;
+    padding: 10px;
+}
