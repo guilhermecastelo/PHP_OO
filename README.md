@@ -6,5 +6,6 @@ Projetos desenvolvidos durante o curso de PHP OO disponibilizado pelo professor 
 ### ⚠ Como utilizar
 Para manipular os códigos PHP presentes neste repositório, recomendo usar:
 
--  [**XAMPP**](https://www.apachefriends.org/pt_br/index.html): Programa para a execução de um servidor e banco de dados local.
-- [**VS Code**](https://code.visualstudio.com/): Editor de código-fonte.
+- Navegador web (ex: Google Chrome);
+- Editor de código-fonte (ex: Visual Studio Code);
+- Ambiente de desenvolvimento PHP (ex: XAMPP).
